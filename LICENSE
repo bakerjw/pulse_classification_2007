@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Jack Baker
+Copyright (c) 2006-2007 Jack W. Baker
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+If you use this software in your research, please cite:
+
+Baker, J. W. (2007). "Quantitative classification of near-fault ground motions
+using wavelet analysis." Bulletin of the Seismological Society of America,
+97(5), 1486-1501.
