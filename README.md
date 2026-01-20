@@ -11,23 +11,6 @@ This code represents the original implementation from 2006-2007 and is archived 
 **Original development:** January 2006 - October 2006
 **Matlab version:** Compatible with Matlab R14 (2004) and later versions with Wavelet Toolbox
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{baker2007quantitative,
-  title={Quantitative classification of near-fault ground motions using wavelet analysis},
-  author={Baker, Jack W},
-  journal={Bulletin of the Seismological Society of America},
-  volume={97},
-  number={5},
-  pages={1486--1501},
-  year={2007},
-  publisher={Seismological Society of America}
-}
-```
-
 ## Overview
 
 This implementation uses continuous wavelet transform (CWT) analysis to:
