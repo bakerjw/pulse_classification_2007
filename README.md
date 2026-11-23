@@ -139,14 +139,11 @@ This dataset can be used to validate the implementation or compare with manual c
 
 ## Data and Results
 
-Additional data and results from the Baker (2007) paper are available at [https://www.jackwbaker.com/pulse-classification_old.html](https://www.jackwbaker.com/pulse-classification_old.html):
+Additional data and results are available at [https://www.jackwbaker.com/pulse-classification.html](https://www.jackwbaker.com/pulse-classification.html):
 
 - **Plots of pulse-like ground motions** - PDF containing plots of all 91 fault-normal pulse-like ground motions with metadata
 - **Acceleration time histories** - Complete time histories for the 91 pulse-like records (original, extracted pulse, and residual)
 - **NGA database classifications** - Classification results for all ground motions in the NGA West 1 database
-- **Pulse record spectra** - Pseudo-velocity spectra for pulse-like ground motions and their components
-
-These comprehensive datasets complement the code in this repository and provide the full results from the published study.
 
 ## Modifications from Original
 
